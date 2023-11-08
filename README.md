@@ -7,3 +7,6 @@ Please refer to the project folders for more information, including code and ful
 If you have any questions, please feel free to contact me.
 
 I hope you enjoy exploring my work!
+
+## Project lists:
+* [Bike Sharing Demand Forecasting](https://github.com/Shahrullo/MLOps-personal/tree/main/BikeSharingDemand)
